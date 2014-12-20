@@ -1,0 +1,21 @@
+{
+  "name": "dawn-landing",
+  "version": "0.0.1",
+  "dependencies": {
+    "envify": "^3.2.0",
+    "react": "*"
+  },
+  "devDependencies": {
+    "css-loader": "^0.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-plumber": "*",
+    "gulp-util": "^3.0.1",
+    "gulp-watch": "*",
+    "jsx-loader": "^0.12.2",
+    "react-bootstrap": "*",
+    "react-router": "^0.11.6",
+    "sass-loader": "^0.3.1",
+    "style-loader": "^0.8.2",
+    "webpack": "^1.4.13"
+  }
+}
